@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+## mi prompt navegacion 3 paginas 
+
+Lenguaje Dart flutter, nivel principiante, ejemplo de navegacion entre 3 paginas utilizando rutas nombradas, desde main llamar a pagina 1, En la pagina 1 mostrar en appbar el titulo "inicio" color blanco con fondo azul y en body, en una columna mostrar texto (inicio) mas un boton para ir a la segunda pagina, en la pagina 2 mostrar el appbar "segunda pagina" color negro con fondo verde y en body mostrar una imagen desde la red mas un boton para ir a la tercera pagina, en la tercera pagina en appbar mostrar titulo "Tercera pagina" color morado con fondo azul marino y body mostrar un container de 200 por 200 azul claro. Debe ser atractivo facil navegacion y mostrar todo el codigo en un solo archivo
 
 This project is a starting point for a Flutter application.
 
